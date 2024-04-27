@@ -1,0 +1,176 @@
+High Level Requirements :
+
+1. Sign Up flow
+
+	1.1 What kind of fields I need to consider ?
+		First Name
+		Last Name
+		Email
+		Password
+		
+2. Login Flow
+3. Forgot Password Flow
+4. Search Product Flow
+5. Filter 
+6. Add to Cart
+7. Payment and Checkout
+8. Order Management
+
+ HLR - I want to go Ahmedabad to Mumbai
+================================
+
+	LLR - By Train
+	      By Flight
+	      By Bus
+	      By Car
+              By Ship
+
+
+
+==================================Agile==============================
+
+
+- Devides the Projects into smaller phases
+- Constant Collobration and working in iteration
+
+=============================SCRUM==================
+
+
+
+- XYZ Software Company -- Scrum Team
+
+8-10 Peoples in your company
+
+2- Backend Developers
+2- Frontend Developers
+1- Businesss Analyst / PO
+2- Tester / QA
+1- DBA
+1- Deployment/ Infrastructure 
+1- Scrum Master / Project Manager
+1- PO
+
+=======================================================
+
+1- CEO
+1- Client - Product Owner (PO)
+
+====================================Ecom. Website=======
+
+Scrum Framework
+
+==============================================
+
+
+Req. Analysis
+
+U
+===========================Pre-Activity Before start any Sprint===============
+
+10 Stories in our Backlog
+
+1 - As a user, I can able to edit profile details.
+2 - As a user, I can able to signup into the application.ser Story : As a user, I can able to login into the application successfully and land on Dashboard page.
+
+Product Backlog : 
+
+Many user stories 
+
+
+3 - As a user, I can able to change my profile picture.
+4 - As a user, I can able to logout from the application successfully.
+5 - As a user, I can able to login into the application successfully and land on Dashboard page
+
+=====================Refinement for the Backlog items(PO)===============================
+2 - 1st Priotiry
+5 - 2nd Priority
+4 - 3rd Priority
+1- 4th priority
+3- 5th priority
+
+==========================Product Grooming===================
+
+PO/BA/Client give understanding of the stories or explain the goal of product backlogs
+
+========================Sprint Planning=========================
+
+Estimation : 
+
+
+1 - As a user, I can able to edit profile details.
+2 - As a user, I can able to signup into the application. - SP (3)
+3 - As a user, I can able to change my profile picture.
+4 - As a user, I can able to logout from the application successfully.
+5 - As a user, I can able to login into the application successfully and land on Dashboard page
+
+
+1,2,3,5, 7, 9, 13,
+
+Acceptance Criteria : 
+
+User can able to sign up with valid email id.
+Duplicate user sign up not allowed.
+After sign up, user will receive welcome email with token.
+
+	
+4 - As a user, I can able to logout from the application successfully.
+5 - As a user, I can able to login into the application successfully and land on Dashboard page
+
+
+ant, cat, dog, lion, elephant
+xs, s, m, xl, xxl, xxxl
+
+Story Points
+
+======================================Sprint - START- DAY-1=================
+
+2 - As a user, I can able to signup into the application.
+======================Daily Scrum / Daily Standup Meeting==================
+
+10 AM 7 PM
+
+10:15 AM for 10-15 Mins.
+10:30 AM
+
+
+What is the goal for Today ? What will you work today ?
+What you have finished / Completed y'day ?
+Any Blockers for Today ?
+======================Daily Scrum / Daily Standup Meeting==================
+
+10 AM 7 PM
+
+10:15 AM for 10-15 Mins.
+10:30 AM
+
+
+What is the goal for Today ? What will you work today ?
+What you have finished / Completed y'day ?
+Any Blockers for Today ?
+
+======================Daily Scrum / Daily Standup Meeting==================
+
+10 AM 7 PM
+
+10:15 AM for 10-15 Mins.
+10:30 AM
+
+
+What is the goal for Today ? What will you work today ?
+What you have finished / Completed y'day ?
+Any Blockers for Today ?
+=================================================================
+
+Last Day of the sprint (15th Day of the sprint)
+
+All below stories in Done status : 
+
+2 - As a user, I can able to signup into the application.
+4 - As a user, I can able to logout from the application successfully.
+5 - As a user, I can able to login into the application successfully and land on Dashboard page
+
+
+============== Sprint Review Activity, Sprint Demo, Sprint Feedback=======================
+
+=============Sprint Retrospective=======================
+              
